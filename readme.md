@@ -51,11 +51,13 @@ Jalankan semua test:
 npx playwright test
 ```
 
-Jalankan satu file, atau dengan browser terlihat dan berurutan:
+Jalankan salah satu file:
 
 ```bash
+npx playwright test webtables.spec.ts
+npx playwright test droppable.spec.ts
 npx playwright test resizable.spec.ts
-npx playwright test --headed --workers=1
+npx playwright test practiceform.spec.ts
 ```
 
 Secara default test berjalan paralel, jadi beberapa browser bisa terbuka bersamaan.
