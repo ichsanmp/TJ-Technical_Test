@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Andi",
+    "lastName": "Susanto",
+    "email": "andi.s@example.com",
+    "age": "28",
+    "salary": "15000",
+    "department": "Engineering"
+  },
+  {
+    "firstName": "Budi",
+    "lastName": "Raharjo",
+    "email": "budi.r@example.com",
+    "age": "35",
+    "salary": "25000",
+    "department": "Marketing"
+  },
+  {
+    "firstName": "Citra",
+    "lastName": "Dewi",
+    "email": "citrad@example.com",
+    "age": "24",
+    "salary": "12000",
+    "department": "Sales"
+  },
+  {
+    "firstName": "Dian",
+    "lastName": "Permana",
+    "email": "dian.p@example.com",
+    "age": "42",
+    "salary": "35000",
+    "department": "HR"
+  },
+  {
+    "firstName": "Eko",
+    "lastName": "Prasetyo",
+    "email": "eko.pras@example.com",
+    "age": "29",
+    "salary": "18000",
+    "department": "IT"
+  },
+  {
+    "firstName": "Fitri",
+    "lastName": "Handayani",
+    "email": "fitri.h@example.com",
+    "age": "31",
+    "salary": "21000",
+    "department": "Finance"
+  },
+  {
+    "firstName": "Gilang",
+    "lastName": "Saputra",
+    "email": "gilang.s@example.com",
+    "age": "26",
+    "salary": "14000",
+    "department": "Support"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Putri",
+    "email": "hana.p@example.com",
+    "age": "38",
+    "salary": "28000",
+    "department": "Legal"
+  },
+  {
+    "firstName": "Indra",
+    "lastName": "Kusuma",
+    "email": "indra.k@example.com",
+    "age": "45",
+    "salary": "40000",
+    "department": "Management"
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Sari",
+    "email": "maya.sari@example.com",
+    "age": "27",
+    "salary": "16000",
+    "department": "QA"
+  }
+]
