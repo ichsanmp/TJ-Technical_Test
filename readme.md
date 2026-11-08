@@ -60,8 +60,6 @@ npx playwright test resizable.spec.ts
 npx playwright test practiceform.spec.ts
 ```
 
-Secara default test berjalan paralel, jadi beberapa browser bisa terbuka bersamaan.
-
 ## Hasil test
 
 Selama test berjalan, setiap step muncul di terminal sebagai checklist:
